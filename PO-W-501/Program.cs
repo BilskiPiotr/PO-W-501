@@ -42,6 +42,7 @@ namespace PO_W_501
 
             // Jaki będzie wynik wykonania tak napisanego przeciążenia z powyższymi wartościami?
             // Podpowiedź - trzeba przeanalizować zasadę zachowania się bramek logicznych AND i OR
+
             if (testObject1 && testObject2)
                 Console.WriteLine("Jakiś komunikat 1");
             if (testObject1 || testObject3)
