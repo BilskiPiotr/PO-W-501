@@ -47,6 +47,7 @@ namespace PO_W_501
                 Console.WriteLine("Jakiś komunikat 1");
             if (testObject1 || testObject3)
                 Console.WriteLine("Jakiś komunikat 2");
+            Console.ReadKey();
         }
     }
 
