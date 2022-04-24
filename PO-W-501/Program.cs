@@ -7,8 +7,8 @@ namespace PO_W_501
 {
     class Logic
     {
-        public int _parX;
-        public int _parY;
+        int _parX;
+        int _parY;
         public Logic(int parX, int parY)
         {
             _parX = parX;
