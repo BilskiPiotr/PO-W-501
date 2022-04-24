@@ -50,38 +50,38 @@ namespace PO_W_501
         }
     }
 
-    // Implementacja klasy przykładowej z logiką operatorów
-    class LogikaOperatorów
-    {
-        void OperacjaAND()
-        {
-            if (false & false)
-            {
-                //tu jest kod, który się nie wykona
-            }
-            if (true & false)
-            {
-                //ten kod, także się nie wykona
-            }
-            if (true & true)
-            {
-                //ten kod zostanie wykonany
-            }
-        }
-        void OperacjaOR()
-        {
-            if (false | false)
-            {
-                //tu jest kod, który się nie wykona
-            }
-            if (true | false)
-            {
-                //ten kod zostanie wykonany
-            }
-            if (true | true)
-            {
-                //ten kod także zostanie wykonany
-            }
-        }
-    }
+    //// Implementacja klasy przykładowej z logiką operatorów
+    //class LogikaOperatorów
+    //{
+    //    void OperacjaAND()
+    //    {
+    //        if (false & false)
+    //        {
+    //            //tu jest kod, który się nie wykona
+    //        }
+    //        if (true & false)
+    //        {
+    //            //ten kod, także się nie wykona
+    //        }
+    //        if (true & true)
+    //        {
+    //            //ten kod zostanie wykonany
+    //        }
+    //    }
+    //    void OperacjaOR()
+    //    {
+    //        if (false | false)
+    //        {
+    //            //tu jest kod, który się nie wykona
+    //        }
+    //        if (true | false)
+    //        {
+    //            //ten kod zostanie wykonany
+    //        }
+    //        if (true | true)
+    //        {
+    //            //ten kod także zostanie wykonany
+    //        }
+    //    }
+    //}
 }
